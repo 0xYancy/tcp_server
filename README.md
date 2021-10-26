@@ -1,2 +1,2 @@
 # tcp_server
-![running](https://i.loli.net/2021/10/26/x8eyiGj7vzICNQl.png)
+![running](https://raw.githubusercontent.com/0xYancy/tcp_server/master/WX20211026-210453.png)
